@@ -1,0 +1,59 @@
+{
+  "check_interval_min": 10,
+  "rules": [
+    {
+      "name": "Vsover",
+      "reply": "「🔥🔥🔥当前由自动化程序续火花测试」",
+      "active": true,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    },
+    {
+      "name": "郑科F4",
+      "reply": "「当前由自动化程序续火花测试」",
+      "active": false,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    },
+    {
+      "name": "色孬",
+      "reply": "「当前由自动化程序续火花测试」",
+      "active": false,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    },
+    {
+      "name": "刘雪晴小朋友",
+      "reply": "「当前由自动化程序续火花测试」",
+      "active": false,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    },
+    {
+      "name": "刀总",
+      "reply": "「当前由自动化程序续火花测试」",
+      "active": false,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    },
+    {
+      "name": "孙浩翔",
+      "reply": "「当前由自动化程序续火花测试」",
+      "active": false,
+      "trigger": "always",
+      "active_hours": "00:00-24:00",
+      "min_gap_min": 0,
+      "max_per_day": 10
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# 登录凭证与浏览器缓存（敏感，禁止上传）
+browser_profile/
+*.cookies
+*.session
+
+# Python 运行时
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 日志与运行时输出
+*.log
+output/
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 凭证与环境变量
+.env
+*.token
